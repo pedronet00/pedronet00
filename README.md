@@ -5,13 +5,11 @@
  🔭 Atualmente trabalho na ImobiBrasil
  
 - 🌱 Estou no 5º termo de Sistemas de Informação, pela Toledo Centro Universitário
-- 
+
 - 🤔 Buscando aprender React, Python e outras tecnologias
-- 
-- 📫 Contato:
-       - E-mail: stabilepedro010403@gmail.com
-       - Celular : 18 991667210
-       - 
+
+- 📫 Email: stabilepedro010403@gmail.com
+  
 - ⚡ Curiosidade: gosto muito de instrumentos musicais, independente de qual.
 
 

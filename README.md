@@ -1,19 +1,19 @@
-### Hi there 👋
+### Hello, there 👋
 
-<!--
-**pedronet00/pedronet00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🔭 Atualmente trabalho na ImobiBrasil
+ 
+- 🌱 Estou no 5º termo de Sistemas de Informação, pela Toledo Centro Universitário
+- 
+- 🤔 Buscando aprender React, Python e outras tecnologias
+- 
+- 📫 Contato:
+       - E-mail: stabilepedro010403@gmail.com
+       - Celular : 18 991667210
+       - 
+- ⚡ Curiosidade: gosto muito de instrumentos musicais, independente de qual.
+
 
 Competências:
 <br/><br/>

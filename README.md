@@ -10,7 +10,7 @@
 
 - 📫 Email: stabilepedro010403@gmail.com
   
-- ⚡ Curiosidade: gosto muito de instrumentos musicais, independente de qual.
+- ⚡ Gosto muito de instrumentos musicais, de ler e assistir séries no meu tempo livre.
 
 
 Competências:

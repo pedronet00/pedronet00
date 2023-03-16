@@ -2,7 +2,7 @@
 
 
 
- 🔭 Atualmente trabalho na ImobiBrasil
+- 🔭 Atualmente trabalho na ImobiBrasil
  
 - 🌱 Estou no 5º termo de Sistemas de Informação, pela Toledo Centro Universitário
 

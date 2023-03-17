@@ -10,14 +10,14 @@
   
 - ⚡ Gosto muito de instrumentos musicais, de ler e assistir séries no meu tempo livre.
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/pedronet00">
 <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=pedronet00&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronet00&layout=compact&langs_count=7&theme=react" />
 
- <br/><br/>
-
+ <br/>
+ 
 Competências:
 <br/><br/>
 <div class="icones" style="padding: 5%;">
@@ -29,8 +29,6 @@ Competências:
    <img style="margin-left: 20%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40px" width="40px" />
 </div>
 
-  
-
 ##
  
 <div> 
@@ -41,7 +39,6 @@ Competências:
   
 </div>
 
-![Snake animation](https://github.com/pedronet00/pedronet00/blob/output/github-contribution-grid-snake.svg)
 
                    
 

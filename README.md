@@ -16,12 +16,12 @@
 Competências:
 <br/><br/>
 <div class="icones">
-   <img style="margin-left: 20%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="50px" width="50px"/>`php`
-   <img style="margin-left: 20%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="50px" width="50px"/>`mysql`
-   <img style="margin-left: 20%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px" width="50px"/>`html`
-   <img style="margin-left: 20%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50px" width="50px"/>`css`
-   <img style="margin-left: 20%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50px" width="50px"/>`javascript`
-   <img style="margin-left: 20%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50px" width="50px" />`git`
+   <img style="margin-left: 20%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="50px" width="50px"/>
+   <img style="margin-left: 20%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="50px" width="50px"/>
+   <img style="margin-left: 20%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px" width="50px"/>
+   <img style="margin-left: 20%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50px" width="50px"/>
+   <img style="margin-left: 20%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50px" width="50px"/>
+   <img style="margin-left: 20%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50px" width="50px" />
 </div>
 
                    

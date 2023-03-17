@@ -13,7 +13,7 @@
 
 Competências:
 <br/><br/>
-<div class="icones" style="padding: 1%;">
+<div class="icones" style="padding: 5%;">
    <img style="margin-left: 20%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="40px" width="40px"/>
    <img style="margin-left: 20%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="40px" width="40px"/>
    <img style="margin-left: 20%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40px" width="40px"/>

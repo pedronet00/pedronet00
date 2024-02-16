@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente trabalho na ImobiBrasil
  
-- 🌱 Estou no 6º termo de Sistemas de Informação, pela Toledo Centro Universitário
+- 🌱 Estou no 7º termo de Sistemas de Informação, pela Toledo Centro Universitário
 
 - 🤔 Buscando aprender C#, React, Python e outras tecnologias
   

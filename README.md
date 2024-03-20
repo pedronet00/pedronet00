@@ -3,7 +3,7 @@
 
 - 🌱 Estou no 7º termo de Sistemas de Informação, pela Toledo Centro Universitário
 
-- 🤔 Buscando aprender C#, React, Python e outras tecnologias
+- 🤔 Buscando aprender Java, React e outras tecnologias
   
 - ⚡ Gosto muito de instrumentos musicais, de ler e assistir séries no meu tempo livre.
 

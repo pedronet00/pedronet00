@@ -1,9 +1,9 @@
 ### Hello, there 👋
 
 
-- 🌱 Estou no 7º termo de Sistemas de Informação, pela Toledo Centro Universitário
+- 🌱 Estou no 8º termo de Sistemas de Informação, pela Toledo Centro Universitário
 
-- 🤔 Buscando aprender Java, React e outras tecnologias
+- 🤔 Buscando aprender Laravel, Java, React e outras tecnologias
   
 - ⚡ Gosto muito de instrumentos musicais, de ler e assistir séries no meu tempo livre.
 

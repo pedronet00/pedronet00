@@ -1,9 +1,9 @@
 ### Hello, there 👋
 
 
-- 🌱 Estou no 8º termo de Sistemas de Informação, pela Toledo Centro Universitário
+- 🌱 Sou formado em Sistemas de Informação, pela Toledo Centro Universitário
 
-- 🤔 Buscando aprender Laravel, Java, React e outras tecnologias
+- 🤔 Buscando aprender C# e Laravel
   
 - ⚡ Gosto muito de instrumentos musicais, de ler e assistir séries no meu tempo livre.
 
@@ -18,11 +18,9 @@
 Competências:
 <br/><br/>
 <div class="icones" style="padding: 5%;">
+   <img style="margin-left: 20%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40px" width="40px"/>
    <img style="margin-left: 20%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="40px" width="40px"/>
    <img style="margin-left: 20%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="40px" width="40px"/>
-   <img style="margin-left: 20%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40px" width="40px"/>
-   <img style="margin-left: 20%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px" width="40px"/>
-   <img style="margin-left: 20%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40px" width="40px"/>
    <img style="margin-left: 20%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40px" width="40px" />
 </div>
 

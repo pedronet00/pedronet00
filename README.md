@@ -1,9 +1,9 @@
 ### Hello, there 👋
 
 
-- 🌱 Sou formado em Sistemas de Informação, pela Toledo Centro Universitário
+- 🌱 Sou formado em Sistemas de Informação, pela Toledo Centro Universitário, e sou desenvolvedor fullstack na Unimed Presidente Prudente.
 
-- 🤔 Buscando aprender C# e Laravel
+- 🤔 Trabalho com .NET e PL/SQL utilizando o Oracle.
   
 - ⚡ Gosto muito de instrumentos musicais, de ler e assistir séries no meu tempo livre.
 
